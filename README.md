@@ -6,25 +6,22 @@
 
 ## The Algorithm
 
-This system was trained using a New Network. The strategies we used to train the model were resNet-18, Onnx and Imagenet
+This system was trained using a New Network. 
 
-trained a New Network
+The strategies I used to train the model were resNet-18, Onnx and Imagenet.
 
-Retrained the model using resNet-18
+Firstly, I found a dataset and formatted into a way that could be used for training.
 
-Used Onnx
+I changed the network to Skin_Conditions.ONNX to store the neural network, then made an output folder for future storing.
 
-Imagenet
-
-skin.py
-
-explain the program(printing out the link)
-
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+I also created a custom code to lead the user into a reputable website explaining treatments for the types of skin diseases.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Select a test image from the 6 classes
+
+2. Run "Python3 final_code.py testImagePath" in the terminal
+
+3. Get the results!
 
 [View a video explanation here](video link)
