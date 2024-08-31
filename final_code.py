@@ -40,7 +40,7 @@ elif class_idx == 1:
 
 elif class_idx == 2:
     print("It seems like you have Milia", end = " ")
-    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279", confidence * 100)
+    sentence(class_desc, "https://my.clevelandclinic.org/health/diseases/17868-milia", confidence * 100)
 
 elif class_idx == 3:
     print("It seems like you have Keratosis", end = " ")
@@ -48,7 +48,7 @@ elif class_idx == 3:
 
 elif class_idx == 4:
     print("It seems like you have Eczema", end = " ")
-    sentence(class_desc, "https://my.clevelandclinic.org/health/diseases/17868-milia", confidence * 100)
+    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279", confidence * 100)
 
 elif class_idx == 5:
     print("It seems like you have Carcinoma", end = " ")
