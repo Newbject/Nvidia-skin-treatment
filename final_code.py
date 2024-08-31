@@ -36,8 +36,7 @@ if class_idx == 0:
 
 elif class_idx == 1:
     print("It seems like you have Rosacea", end = " ")
-    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/squamous-cell-carcinoma/diagnosis-treatment/drc-20352486", confidence * 100)
-
+    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/rosacea/diagnosis-treatment/drc-20353820", confidence * 100)
 
 elif class_idx == 2:
     print("It seems like you have Milia", end = " ")
@@ -53,4 +52,4 @@ elif class_idx == 4:
 
 elif class_idx == 5:
     print("It seems like you have Carcinoma", end = " ")
-    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/rosacea/diagnosis-treatment/drc-20353820")
+    sentence(class_desc, "https://www.mayoclinic.org/diseases-conditions/squamous-cell-carcinoma/diagnosis-treatment/drc-20352486")
