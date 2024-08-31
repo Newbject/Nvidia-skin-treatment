@@ -1,8 +1,11 @@
 # Nvidia AI Skin Disease Detection
 
- This project is meant for quick detection of skin diseases(Acne, Carcinoma, Eczema, Keratosis, Milia, Rosacea) and giving a link on how to treat it. This program can be helpful in many cases. for example, when it's midnight and you find a part of your skin red, and rather than searching the internet, can give you instant results on how to treat it.
+ This project is meant for quick detection of skin diseases (Acne, Carcinoma, Eczema, Keratosis, Milia, Rosacea) and giving a link on how to treat it. This program can be helpful in many cases. for example, when it's midnight and you find a part of your skin red, rather than gping to the doctor right away, this AI can help identify the type of skin disease you have and give you ways to treat it.
 
-![add image descrition here](direct image link here)
+![Eczema_2](https://github.com/user-attachments/assets/49bdeb2c-b163-44f0-b30d-90d075a832b6)
+
+![Eczema Terminal](https://github.com/user-attachments/assets/6d7afb26-8723-41d6-a1ce-469f0829f4c1)
+
 
 ## The Algorithm
 
